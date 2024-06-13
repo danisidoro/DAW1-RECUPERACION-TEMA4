@@ -24,5 +24,9 @@
 ![EJERCICIO4](screenshots/7.png)
 ![EJERCICIO4](screenshots/8.png)
 
+##ejercicio 5##
+
+![EJERCICIO5](screenshots/9.png)
+
 
 
